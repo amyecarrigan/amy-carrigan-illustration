@@ -1,0 +1,15 @@
+{
+  "name": "amy-carrigan-illustration",
+  "version": "1.0.0",
+  "description": "JAMstack portfolio site",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amyecarrigan/amy-carrigan-illustration.git"
+  },
+  "author": "Amy Carrigan",
+  "license": "ISC",
+  "devDependencies": {
+    "@frctl/fractal": "^1.5.11"
+  }
+}
