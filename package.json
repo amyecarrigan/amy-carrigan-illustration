@@ -9,7 +9,5 @@
   },
   "author": "Amy Carrigan",
   "license": "ISC",
-  "devDependencies": {
-    "@frctl/fractal": "^1.5.11"
-  }
+  "devDependencies": {}
 }
