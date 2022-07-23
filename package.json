@@ -9,5 +9,6 @@
   },
   "author": "Amy Carrigan",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+  }
 }
